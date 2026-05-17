@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+# large folders
+osm_data
+final
+cache
+qgis
